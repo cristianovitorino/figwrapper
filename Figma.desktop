@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Figma
+GenericName=Design Tool
+Exec=figma
+Icon=figma.png
+Type=Application
+Comment=Design and prototyping tool
+Categories=Design
+StartupWMClass=figma-the-collaborative-interface-design-tool-nativefier-1a5944
