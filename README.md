@@ -17,10 +17,13 @@
 * Internet connection.
 
 ## Install
+**Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through Git LFS, you need to clone the repo through git.
 
-Extract Figwrapper to a folder of your preference, then on a terminal:
+On a terminal, run:
 
 ```bash
+> git clone https://github.com/cristianovitorino/figwrapper.git
+> cd figwrapper
 > chmod u+x InstallFigma.sh
 > sh ./InstallFigma.sh
 ```
