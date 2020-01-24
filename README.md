@@ -11,6 +11,11 @@
     <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screenshot.png"
     alt="screenshot"/>
 </p>
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screnshot-2.png"
+    alt="screenshot-2"/>
+</p>
 <p align="center"><i>Figma install through Figwrapper under i3-gaps on Fedora 31</i></p>
 
 ## Requirement
