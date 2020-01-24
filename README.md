@@ -17,6 +17,13 @@
     alt="screenshot-2"/>
 </p>
 <p align="center"><i>Figma install through Figwrapper under i3-gaps on Fedora 31</i></p>
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screenshot-3.png"
+    alt="screenshot-3"/>
+</p>
+</p>
+<p align="center"><i>Figma install through Figwrapper under GNOME on Fedora 31</i></p>
 
 ## Requirement
 * Internet connection.
