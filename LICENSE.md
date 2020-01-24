@@ -1,5 +1,5 @@
-The MIT License (MIT)
-=====================
+MIT License
+===========
 
 Copyright © `2020` `Cristiano Vitorino`
 
