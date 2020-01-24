@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Thanks for trying Figwraper!"
+echo "Thanks for trying Figwrapper!"
 
 if [[ -d "$HOME/Applications" ]]
 then

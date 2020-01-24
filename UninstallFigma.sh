@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Thanks for using Figwraper!"
+echo "Thanks for using Figwrapper!"
 echo "You need to be root to execute this action"
-sudo rm -rf $HOME/Apps/Figma
+sudo rm -rf $HOME/Applications/Figma
 echo "Deleting main folder..."
 sleep 1
 
