@@ -1,37 +1,30 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Thanks for trying Figwrapper!"
 
 if [[ -d "$HOME/Applications" ]]
 then
     echo "'$HOME/Applications' directory already exists on your filesystem. Proceeding."
-    sleep 1
-
 else
     echo "'$HOME/Applications' directory doesn't exist on your filesystem. Creating one."
-    mkdir $HOME/Applications
-    sleep 1
+    mkdir "$HOME/Applications"
 fi
 
-mv Figma $HOME/Applications/
 echo "Moving files..."
-sleep 2
-echo "Installing Figma to your global executable path..."
-sudo mv figma /usr/local/bin/
+cp -r "Figma" "$HOME/Applications/"
 
+echo "Installing Figma to your global executable path (requires your password)..."
+sudo cp "figma" "/usr/local/bin/"
 
 if [[ -d "/usr/local/share/icons/figma" ]]
 then
     echo "'/usr/local/share/icons/figma' directory already exists on your filesystem. Proceeding."
-    sleep 1
-
 else
     echo "'/usr/local/share/icons/figma' directory doesn't exist on your filesystem. Creating one."
-    mkdir /usr/local/share/icons/figma
-    sleep 1
+    mkdir "/usr/local/share/icons/figma"
 fi
 
-ln -s $HOME/Applications/Figma/resources/app/icon.png /usr/local/share/icons/figma/figma.png
-mv Figma.desktop $HOME/.local/share/applications/
+cp "$HOME/Applications/Figma/resources/app/icon.png" "/usr/local/share/icons/figma/figma.png"
+cp "Figma.desktop" "$HOME/.local/share/applications/"
 
 echo "Done!"
