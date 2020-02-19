@@ -10,8 +10,8 @@ echo "Deleting global executable..."
 sudo rm -rf /usr/local/bin/figma
 sleep 1
 
-echo "Deleting symlink..."
-sudo rm -rf $HOME/.icons/figma.png
+echo "Deleting icon..."
+sudo rm -rf /usr/local/share/icons/figma/
 sleep 1
 
 echo "Deleting .desktop..."

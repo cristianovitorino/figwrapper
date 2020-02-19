@@ -20,18 +20,18 @@ echo "Installing Figma to your global executable path..."
 sudo mv figma /usr/local/bin/
 
 
-if [[ -d "$HOME/.icons" ]]
+if [[ -d "/usr/local/share/icons/figma" ]]
 then
-    echo "'$HOME/.icons' directory already exists on your filesystem. Proceeding."
+    echo "'/usr/local/share/icons/figma' directory already exists on your filesystem. Proceeding."
     sleep 1
 
 else
-    echo "'$HOME/.icons' directory doesn't exist on your filesystem. Creating one."
-    mkdir $HOME/.icons
+    echo "'/usr/local/share/icons/figma' directory doesn't exist on your filesystem. Creating one."
+    mkdir /usr/local/share/icons/figma
     sleep 1
 fi
 
-ln -s $HOME/Applications/Figma/resources/app/icon.png $HOME/.icons/figma.png
+ln -s $HOME/Applications/Figma/resources/app/icon.png /usr/local/share/icons/figma/figma.png
 mv Figma.desktop $HOME/.local/share/applications/
 
 echo "Done!"
