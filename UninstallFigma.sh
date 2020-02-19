@@ -1,21 +1,23 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Thanks for using Figwrapper!"
-echo "You need to be root to execute this action"
-sudo rm -rf $HOME/Applications/Figma
+
+if [[ "$EUID" -ne "0" ]]
+then
+    echo "You need to be root to execute this action"
+    exit "1"
+fi
+
 echo "Deleting main folder..."
-sleep 1
+rm -rf "$HOME/Applications/Figma"
 
 echo "Deleting global executable..."
-sudo rm -rf /usr/local/bin/figma
-sleep 1
+rm -rf "/usr/local/bin/figma"
 
 echo "Deleting icon..."
-sudo rm -rf /usr/local/share/icons/figma/
-sleep 1
+rm -rf "/usr/local/share/icons/figma"
 
 echo "Deleting .desktop..."
-sudo rm -rf $HOME/.local/share/applications/Figma.desktop
-sleep 1
+rm -rf "$HOME/.local/share/applications/Figma.desktop"
 
 echo "Done!"

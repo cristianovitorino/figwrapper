@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-exec ~/Applications/Figma/Figma
+exec "$HOME/Applications/Figma/Figma"
