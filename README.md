@@ -13,7 +13,7 @@
     Why not just use nativefier?
 </h1>
 
-Convenience. Figwrapper offers a quicker workflow because of it's full Linux integration, with proper Linux standard file system paths, system wide icon and executable binary, proper .desktop, integrates fully into your system. You can manipulate it the way you want through terminal commands, scripts, dmenu/rofi calls, etc and with your WM of choice as well. A systray funcionality/icon is also possible, but currently there is no feature planned for it, therefore it's disabled by default.
+Convenience. Figwrapper offers improvement over the generated nativefier files, transforms it into a full, proper Linux application, allows for a quicker workflow due to it's full Linux integration, with proper Linux standard file system paths, system-wide icon and executable binary, proper .desktop. You can manipulate it the way you want through terminal commands, scripts, dmenu/rofi calls, etc and with your WM of choice as well. A systray funcionality/icon is also possible, but currently there is no feature planned for it, therefore it's disabled by default.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screenshot.png"
