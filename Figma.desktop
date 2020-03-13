@@ -6,4 +6,4 @@ Icon=/usr/local/share/icons/figma/figma.png
 Type=Application
 Comment=Design and prototyping tool
 Categories=Design
-StartupWMClass=figma
+StartupWMClass=figma-the-collaborative-interface-design-tool-nativefier-1a5944
