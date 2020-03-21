@@ -13,11 +13,11 @@ else
     sleep 1
 fi
 
-mv Figma $HOME/Applications/
-echo "Moving files..."
+cp -r Figma $HOME/Applications/
+echo "Copying files..."
 sleep 2
 echo "Installing Figma to your global executable path..."
-sudo mv figma /usr/local/bin/
+sudo cp figma /usr/local/bin/
 
 
 if [[ -d "/usr/local/share/icons/figma" ]]
@@ -27,11 +27,12 @@ then
 
 else
     echo "'/usr/local/share/icons/figma' directory doesn't exist on your filesystem. Creating one."
-    mkdir /usr/local/share/icons/figma
+    sudo mkdir /usr/local/share/icons/figma
     sleep 1
 fi
 
-ln -s $HOME/Applications/Figma/resources/app/icon.png /usr/local/share/icons/figma/figma.png
-mv Figma.desktop $HOME/.local/share/applications/
+sudo ln -s $HOME/Applications/Figma/resources/app/icon.png /usr/local/share/icons/figma/figma.png
+cp Figma.desktop $HOME/.local/share/applications/
+sudo chmod 770 $HOME/.local/share/applications/Figma.desktop
 
 echo "Done!"
