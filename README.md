@@ -56,5 +56,4 @@ The Figma logo is a trademark and property of Figma, Inc. and is not affiliated 
 ## Donation
 Like my work? A donation would be immensely appreciated!
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RAWWTAYHAMMAY&source=url
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RAWWTAYHAMMAY&source=url)
