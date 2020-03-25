@@ -55,6 +55,6 @@ Figwrapper © 2020 Cristiano Vitorino, MIT License
 
 ---
 ## Donation
-Like my work? A donation would be immensely appreciated!
+If you like my work and want to show some :heart:
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-9cf.svg?style=for-the-badge)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79WNXRNJCHB4&source=url)
