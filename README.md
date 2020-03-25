@@ -51,3 +51,10 @@ Figwrapper © 2020 Cristiano Vitorino, MIT License
 </div>
 <br>
 The Figma logo is a trademark and property of Figma, Inc. and is not affiliated with nor does Figma, Inc. endorse Cristiano Vitorino.
+
+---
+## Donation
+Like my work? A donation would be immensely appreciated!
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RAWWTAYHAMMAY&source=url
+
