@@ -11,11 +11,11 @@
   <a href="https://www.codefactor.io/repository/github/cristianovitorino/figwrapper">
     <img src="https://www.codefactor.io/repository/github/cristianovitorino/figwrapper/badge" alt="CodeFactor">
   </a>
-  <a href="https://www.codacy.com/manual/cristianovitorino/figwrapper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cristianovitorino/figwrapper&amp;utm_campaign=Badge_Grade">
-    <img src="https://api.codacy.com/project/badge/Grade/4b308a48fcef45ab8448051f5896642a" alt="Codacy">
-  </a>
   <a href="https://www.codefactor.io/repository/github/cristianovitorino/figwrapper">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/cristianovitorino/figwrapper">
+  </a>
+  <a href="https://github.com/prettier/prettier">
+    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
   </a>
 </p>
     
