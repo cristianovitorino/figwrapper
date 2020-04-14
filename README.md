@@ -39,12 +39,12 @@ It behaves exactly as if you had installed it through your distro's package mana
 </p>
 
 ## Key Features
-- Full linux integration
-- Includes a Font Linux Helper for local fonts support
+- Full linux integration.
+- Includes a `Font Linux Helper` for local fonts support.
 
 ## Requirement
 - Internet connection.
-- Python3 and Flask through Pip3 (Pip for Python3)
+- Python3 and Flask through Pip3 (Pip for Python3).
 
 ## Install
 **Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through Git LFS, you need to clone the repo through git. Git LFS is required. Install it through your distro and initialize it with `git lfs install`.
