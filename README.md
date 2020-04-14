@@ -39,7 +39,7 @@ It behaves exactly as if you had installed it through your distro's package mana
 </p>
 
 ## Key Features
-- Full linux integration.
+- Full Linux integration.
 - Includes a `Font Linux Helper` for local fonts support.
 
 ## Requirement
