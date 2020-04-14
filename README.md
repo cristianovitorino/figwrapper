@@ -31,7 +31,6 @@
 
 Convenience and local system font support. Because I use it a lot and wanted a full Linux integration and automated install. Figwrapper offers improvement over the generated nativefier files, transforms it into a full, proper Linux application, allows for a quicker workflow due to it's full Linux integration, with proper Linux standard file system paths, system-wide icon and executable binary, proper .desktop. 
 
-
 <h1 align="center">
     How
 </h1>
