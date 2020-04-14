@@ -86,3 +86,9 @@ If you like my work and want to show some :heart:
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper?ref=badge_large)
+
+---
+
+<h6 align="center">
+  Made with :heart: from :brazil:!
+</h6>
