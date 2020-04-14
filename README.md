@@ -67,6 +67,8 @@ $ sh ./InstallFigma.sh
 
 Figwrapper © 2020 Cristiano Vitorino, MIT License
 
+[Nativefier](https://github.com/jiahaog/nativefier) © 2016 [Goh Jia Hao](https://github.com/jiahaog), MIT License
+
 [Figma Linux Font Helper](https://github.com/tryvin/figma-linux-font-helper) © 2019 [Vin](https://github.com/tryvin), MIT License
 
 <div>
