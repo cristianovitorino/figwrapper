@@ -29,7 +29,7 @@
 
 ## Why
 
-Convenience and local system font support. Because I use Figma as my main design tool and I'm a Linux user, I wanted a full Linux integration and automated install. Figwrapper offers improvement over the generated nativefier files, transforms it into a full, proper Linux application, allows for a quicker workflow due to it's full Linux integration, with proper Linux standard file system paths, system-wide icon and executable binary, proper .desktop. 
+Convenience and local system font support. Because I use Figma as my main design tool and I'm a Linux user, I wanted a full Linux integration and automated install. Figwrapper offers improvement over the generated nativefier files, transforms it into a full, proper Linux application, allows for a quicker workflow due to it's full Linux integration, with proper Linux standard file system paths, system-wide icon and executable binary, proper .desktop and local font support. 
 
 ## How
 
