@@ -44,7 +44,7 @@ It behaves exactly as if you had installed it through your distro's package mana
 
 ## Requirements
 - Internet connection.
-- `python3` and `flask` through `pip3`.
+- `python3` and `flask` installed through `pip3`.
 
 ## Install
 **Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through Git LFS, you need to clone the repo through git. Git LFS is required. Install it through your distro and initialize it with `git lfs install`.
