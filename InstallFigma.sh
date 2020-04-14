@@ -2,6 +2,18 @@
 
 echo "Thanks for trying Figwrapper!"
 
+sleep 1
+
+echo "Python and flask through pip3 is required for the Linux Font Helper to work, if you get errors, please make sure you have Python 3, flask through pip3 installed on your system and try running this script again."
+
+cd font-helper
+
+sudo pip3 install -r requirements.txt
+
+sleep 1
+
+cd ..
+
 if [[ -d "$HOME/Applications" ]]
 then
     echo "'$HOME/Applications' directory already exists on your filesystem. Proceeding."
@@ -30,6 +42,8 @@ else
     sudo mkdir /usr/local/share/icons/figma
     sleep 1
 fi
+
+cp -r font-helper $HOME/Applications/Figma/
 
 sudo ln -s $HOME/Applications/Figma/resources/app/icon.png /usr/local/share/icons/figma/figma.png
 cp Figma.desktop $HOME/.local/share/applications/
