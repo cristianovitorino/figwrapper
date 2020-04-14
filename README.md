@@ -71,12 +71,15 @@ Figwrapper © 2020 Cristiano Vitorino, MIT License
 
 [Figma Linux Font Helper](https://github.com/tryvin/figma-linux-font-helper) © 2019 [Vin](https://github.com/tryvin), MIT License
 
-<div>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />The Figwrapper logo is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
-</div>
-<br>
-
 *The Figma logo is a trademark and property of Figma, Inc. and is not affiliated with nor does Figma, Inc. endorse Cristiano Vitorino.*
+
+---
+
+<div>
+<br/>The Figwrapper logo is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+    
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" /></a>
+</div>
 
 ---
 ## Donation
