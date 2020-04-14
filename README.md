@@ -42,7 +42,7 @@ It behaves exactly as if you had installed it through your distro's package mana
 - Full Linux integration.
 - Includes a `Font Linux Helper` for local fonts support.
 
-## Requirement
+## Requirements
 - Internet connection.
 - Python3 and Flask through Pip3 (Pip for Python3).
 
