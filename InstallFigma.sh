@@ -6,13 +6,15 @@ sleep 1
 
 echo "Python and flask through pip3 is required for the Linux Font Helper to work, if you get errors, please make sure you have Python 3, flask through pip3 installed on your system and try running this script again."
 
-cd font-helper
-
-sudo pip3 install -r requirements.txt
+for dir in font-helper
+do
+  (
+  cd "$dir" || exit
+  sudo pip3 install -r requirements.txt
+  )
+done
 
 sleep 1
-
-cd ..
 
 if [[ -d "$HOME/Applications" ]]
 then

@@ -38,8 +38,7 @@ def version():
         response.headers['Content-Type'] = 'application/json'
 
         return response
-    else:
-        return answers_with_404()
+    return answers_with_404()
 
 
 @app.route("/figma/font-files")
@@ -58,8 +57,7 @@ def font_files():
         response.headers['Content-Type'] = 'application/json'
 
         return response
-    else:
-        return answers_with_404()
+    return answers_with_404()
 
 
 @app.route("/figma/font-file")
@@ -102,14 +100,13 @@ def need_update():
         response.headers['Content-Type'] = 'application/json'
 
         return response
-    else:
-        return answers_with_404()
+    return answers_with_404()
 
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         if sys.argv[1] == "docker-mode":
-            hostname = "0.0.0.0"
+            hostname = "192.168.0.1"
         else:
             hostname = sys.argv[1]
     else:
