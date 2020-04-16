@@ -10,7 +10,7 @@ echo ""
 # Sleepers will be used throughout the script to give the illusion of "processing", it's a required psychological trick so the user doesn't think that something went wrong because it went too fast.
 sleep 3
 
-echo "Python 3 and flask installed through pip3 is required for the \n'Linux Font Helper' to work, if you get errors, please make sure \nyou have Python 3, pip3 and flask installed on your system and try \nrunning this script again after running 'sh ./UninstallFigwrapper.sh.'"
+echo "Python 3 and flask installed through pip3 is required for the 'Linux Font Helper' to work, if you get errors, please make sure you have Python 3, pip3 and flask installed on your system and try running this script again after running 'sh ./UninstallFigwrapper.sh.'"
 echo ""
 echo "You should see something like 'Requirement already satisfied'. Please wait."
 
