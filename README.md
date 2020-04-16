@@ -67,7 +67,7 @@ $ sh ./InstallFigwrapper.sh
 ## Uninstall
 
 ```bash
-> chmod u+x InstallFigwrapper.sh
+> chmod u+x UninstallFigwrapper.sh
 > sh ./UninstallFigwrapper.sh
 ```
 
