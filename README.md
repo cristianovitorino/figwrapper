@@ -52,8 +52,7 @@ It behaves exactly as if you had installed it through your distro's package mana
 - `flask` through `pip3`, usually something like `pip3 install flask`.
 
 ## Install
-- **Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through [Git LFS](https://git-lfs.github.com), you **need** to clone the repo through _git_. **Git LFS** is required. Install it through your distro and initialize it with `git lfs install`. 
-- Usually You can install it with something like `your-distro-package-manager-install-function git-lfs` and run `git lfs install` inside the directory that you want to download the project to.
+- **Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through [Git LFS](https://git-lfs.github.com), you **need** to clone the repo through _git_. **Git LFS** is required. Install it through your distro and initialize it with `git lfs install` inside the directory that you want to download the project to. Usually something like `your-distro-package-manager-install-function git-lfs`.
 
 ```bash
 $ git clone https://github.com/cristianovitorino/figwrapper.git
