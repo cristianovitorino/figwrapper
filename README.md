@@ -101,5 +101,5 @@ If you like my work and want to show some :heart:
 ---
 
 <h6 align="center">
-  Made with :heart: from :earth:!
+  Made with :heart: from :earth_americas:!
 </h6>
