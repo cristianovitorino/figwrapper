@@ -95,8 +95,6 @@ If you like my work and want to show some :heart:
 
 [<img height="30" src="paypal-donate.png" alt="PayPal"/>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79WNXRNJCHB4&source=url)
 
-<a href="https://www.buymeacoffee.com/cristianovitorino" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper?ref=badge_large)
 
