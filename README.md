@@ -51,6 +51,7 @@ It behaves exactly as if you had installed it through your distro's package mana
 - `git`
 - `git-lfs`
 - `python3`, `python-pip` or `python-pip3` (depends on your distro).
+- `python-jinja`
 - `flask` through `pip3`, usually something like `pip3 install flask`.
 
 ## Install
