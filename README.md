@@ -8,12 +8,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.codefactor.io/repository/github/estatra/figwrapper">
-    <img src="https://www.codefactor.io/repository/github/estatra/figwrapper/badge" alt="CodeFactor">
+  <a href="https://www.codefactor.io/repository/github/cristianovitorino/figwrapper">
+    <img src="https://www.codefactor.io/repository/github/cristianovitorino/figwrapper/badge" alt="CodeFactor">
   </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79WNXRNJCHB4&source=url">
-    <img alt="PayPal" src="https://img.shields.io/badge/PayPal-Donate-brightgreen?style=flat-square">
-  </a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screenshot.png"
+    alt="screenshot"/>
 </p>
 
 ## About
@@ -29,11 +31,6 @@ Convenience and local system font support. Because I use Figma as my main design
 You can manipulate it the way you want through terminal commands, scripts, dmenu/rofi calls, etc and with your WM of choice as well. Local fonts support is possible thanks to [Vin's work.](https://github.com/tryvin/figma-linux-font-helper) A systray funcionality/icon is also possible, but currently there is no feature planned for it, therefore it's disabled by default.
 
 It behaves exactly as if you had installed it through your distro's package manager.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/screenshot.png"
-    alt="screenshot"/>
-</p>
 
 ## Key Features
 - Full Linux integration.
@@ -75,25 +72,12 @@ Figwrapper © 2020 Cristiano Vitorino, MIT License
 
 *The Figma logo is a trademark and property of Figma, Inc. and is not affiliated with nor does Figma, Inc. endorse Cristiano Vitorino.*
 
----
-
 <div>
 The Figwrapper logo is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
 
 <br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" /></a>
 </div>
 
----
-## Donation
-If you like my work and want to show some :heart:
-
-[<img height="30" src="paypal-donate.png" alt="PayPal"/>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79WNXRNJCHB4&source=url)
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcristianovitorino%2Ffigwrapper?ref=badge_large)
-
----
-
 <h6 align="center">
-  Made with :heart: from :earth_americas:!
+  Made with :heart: from :brazil:!
 </h6>
