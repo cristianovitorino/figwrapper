@@ -48,11 +48,11 @@ It behaves exactly as if you had installed it through your distro's package mana
 **Don't** download the Zip file from the repo, **it will not** download the main binary since it's stored through [Git LFS](https://git-lfs.github.com), you **need** to clone the repo through _git_. **Git LFS** is required. Install it through your distro and initialize it with `git lfs install` inside the directory that you want to download the project to. Usually something like `your-distro-package-manager-install-function git-lfs`.
 
 ```bash
-$ git lfs install
-$ git clone https://github.com/cristianovitorino/figwrapper.git
-$ cd figwrapper
-$ chmod u+x InstallFigwrapper.sh
-$ sh ./InstallFigwrapper.sh
+> git lfs install
+> git clone https://github.com/cristianovitorino/figwrapper.git
+> cd figwrapper
+> chmod u+x InstallFigwrapper.sh
+> sh ./InstallFigwrapper.sh
 ```
 
 ## Uninstall
