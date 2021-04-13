@@ -64,7 +64,7 @@ sh ./UninstallFigwrapper.sh
 
 ## Copyright
 
-Figwrapper © 2020 Cristiano Vitorino, MIT License
+Figwrapper © 2020 Cristiano Vitorino, BSD-3-Clause License
 
 [Nativefier](https://github.com/jiahaog/nativefier) © 2016 [Goh Jia Hao](https://github.com/jiahaog), MIT License
 
