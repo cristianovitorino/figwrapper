@@ -1,3 +1,5 @@
+# Outdated project. Use at your own risk.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/cristianovitorino/figwrapper/master/Images/icon.png"
     alt="icon"/>
